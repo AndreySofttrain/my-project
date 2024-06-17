@@ -1,1 +1,4 @@
 Text in Feature-file.txt
+
+Changes made in local repository
+123
